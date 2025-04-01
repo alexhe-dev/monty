@@ -1,0 +1,6 @@
+*.pytest_cache/
+*.coverage
+__pycache__/
+pytest_cache/
+venv
+test_quotes.json
